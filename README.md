@@ -144,45 +144,30 @@ Designed and shipped a full-stack Conference Hall Booking System — secure auth
 </table>
 
 <br>
+## ⚡ GitHub Analytics
 
-## 🏆 Achievements
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=barathkn&theme=transparent&hide_border=true&show_icons=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=barathkn&bg_color=ffffff00&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
+
+</p>
+
+</p>
+<br>
+
+##  Achievements
 
 <div align="center">
-
+  
 | 🥈 Diploma Final Project | ⛸️ District Skating | ♟️ Chess Trophy |
 |:---:|:---:|:---:|
 | 2nd Prize, Computer Engg. Dept. | 1st, Road & Ring Categories | 2nd, State-Level Rapid Chess |
 
 </div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=barathkn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=12D8FA&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barathkn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9"/>
-
-<img src="https://streak-stats.demolab.com?user=barathkn&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=C471ED&currStreakLabel=12D8FA"/>
-
-</div>
-
-<br>
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Years | Score |
-|:--|:--|:--:|:--:|
-| B.Tech, CS & Business Systems | PSG Institute of Technology and Applied Research | 2024–2027 | 7.3 CGPA |
-| Diploma, Computer Engineering | PSG Polytechnic College | 2022–2024 | 85/100 |
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:12D8FA,50:C471ED,100:FF6B6B&height=120&section=footer"/>
-
 </div>
