@@ -146,17 +146,17 @@ Designed and shipped a full-stack Conference Hall Booking System — secure auth
 <br>
 ## ⚡ GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=barathkn&theme=transparent&hide_border=true&show_icons=true"/>
-
-</p>
+<h2 align="center">💻 Development Analytics</h2>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barathkn&bg_color=ffffff00&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barathkn&theme=github_dark"/>
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barathkn&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barathkn&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barathkn&theme=github_dark&utcOffset=5.5"/>
 
 </p>
 <br>
